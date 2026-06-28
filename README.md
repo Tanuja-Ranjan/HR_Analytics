@@ -81,7 +81,7 @@ Built an interactive HR dashboard to analyze:
 ---
 ## Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard.png)
+![HR Analytics Dashboard](images/dashboard.jpeg)
 ---
 
 ## 👤 Author
